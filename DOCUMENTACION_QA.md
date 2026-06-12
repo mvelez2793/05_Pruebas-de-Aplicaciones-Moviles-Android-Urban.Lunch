@@ -32,14 +32,16 @@ Durante la regresión móvil, identifiqué fallos que afectaban la experiencia d
 *   **Impacto:** El usuario queda en un estado de confusión ("Dead end") sin saber por qué la app no carga los puntos de recogida.
 
 
-![Bug Geolocalización](assets/SPR-1 - Error al cargar el mapa, al abrir la app de Urban.Lunch.png)
+<img width="337" height="562" alt="SPR-1 - Error al cargar el mapa, al abrir la app de Urban Lunch" src="https://github.com/user-attachments/assets/83d97eb8-cb20-429c-b2cd-2f7b26a12285" />
+
 
 ### 2. Defecto de Usabilidad y Renderizado de UI
 *   **Descripción del Defecto (DP-18):** En la pantalla de detalles del platillo, el nombre del restaurante se visualiza superpuesto con otros elementos de la interfaz, dificultando la lectura.
 *   **Impacto:** Degrada la calidad visual de la aplicación móvil, causando una pobre experiencia de usuario (UX).
 
 
-![Bug UI Superposición](assets/CAPTURA PARA COD 4 DE DETAllES DEL PLATILLO.png)
+<img width="357" height="669" alt="CAPTURA PARA COD 4 DE DETAllES DEL PLATILLO" src="https://github.com/user-attachments/assets/9dd6dff0-c540-4e83-982e-57419331ce56" />
+
 
 ---
 *Documentación estructurada por María Auxiliadora Vélez Mendoza - QA Engineer.*
