@@ -32,7 +32,11 @@ Durante la regresión móvil, identifiqué fallos que afectaban la experiencia d
 *   **Impacto:** El usuario queda en un estado de confusión ("Dead end") sin saber por qué la app no carga los puntos de recogida.
 
 
-<img width="337" height="562" alt="SPR-1 - Error al cargar el mapa, al abrir la app de Urban Lunch" src="https://github.com/user-attachments/assets/83d97eb8-cb20-429c-b2cd-2f7b26a12285" />
+<div align="center">
+  <img src="assets/SPR-1 - Error al cargar el mapa, al abrir la app de Urban.Lunch.png" alt="SPR-1 Bug Mapa" width="350">
+  <br>
+  <ins><i>Evidencia SPR-1: Pantalla en gris debido a fallo de carga en el SDK de mapas al iniciar Urban.Lunch</i></ins>
+</div>
 
 
 ### 2. Defecto de Usabilidad y Renderizado de UI
