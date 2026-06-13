@@ -1,3 +1,7 @@
+<div align="right">
+  🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
+</div>
+
 # 📱 Pruebas de Aplicaciones Móviles (Android): Urban.Lunch
 
 ![Project](https://img.shields.io/badge/Project-Mobile_Testing-blue) ![OS](https://img.shields.io/badge/OS-Android-green) ![Tool](https://img.shields.io/badge/Tool-Android_Studio-orange) ![Tracking](https://img.shields.io/badge/Tracking-Jira-blue)
@@ -28,7 +32,7 @@
 *(Nota: Demostración de la interfaz de Urban.Lunch ejecutándose en entorno de pruebas).*
 
 <!-- 📸 ESPACIO PARA EVIDENCIA 1: Sube aquí una captura de pantalla de la app corriendo en tu emulador de Android o una de tus evidencias de Jira -->
-![Evidencia de Pruebas Móviles] (assets/Emulador de la app Urban.Lunch.png)
+![Evidencia de Pruebas Móviles] (assets/Emulador%20de%20la%20app%20Urban.Lunch.png)
 
 ---
 *🧑‍💻 Perfil Técnico: María Auxiliadora Vélez Mendoza - QA Engineer*
