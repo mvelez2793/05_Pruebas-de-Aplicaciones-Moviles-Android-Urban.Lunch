@@ -32,7 +32,7 @@
 
 *(Nota: Demostración de la interfaz de Urban.Lunch ejecutándose en entorno de pruebas).*
 
-<img width="578" height="1073" alt="Emulador de la app Urban Lunch" src="https://github.com/user-attachments/assets/22903738-e144-4a8c-a2c0-2e5bf62f7816" />
+<img width="300" height="1073" alt="Emulador de la app Urban Lunch" src="https://github.com/user-attachments/assets/22903738-e144-4a8c-a2c0-2e5bf62f7816" />
 
 
 ---
