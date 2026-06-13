@@ -1,3 +1,4 @@
+<img width="578" height="1073" alt="Emulador de la app Urban Lunch" src="https://github.com/user-attachments/assets/b02b1614-fdad-4b6d-a9e3-3da6af922600" />
 <div align="right">
   🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
 </div>
@@ -31,8 +32,8 @@
 
 *(Nota: Demostración de la interfaz de Urban.Lunch ejecutándose en entorno de pruebas).*
 
-<!-- 📸 ESPACIO PARA EVIDENCIA 1: Sube aquí una captura de pantalla de la app corriendo en tu emulador de Android o una de tus evidencias de Jira -->
-![Evidencia de Pruebas Móviles] (assets/Emulador%20de%20la%20app%20Urban.Lunch.png)
+<img width="578" height="1073" alt="Emulador de la app Urban Lunch" src="https://github.com/user-attachments/assets/22903738-e144-4a8c-a2c0-2e5bf62f7816" />
+
 
 ---
 *🧑‍💻 Perfil Técnico: María Auxiliadora Vélez Mendoza - QA Engineer*
